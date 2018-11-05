@@ -1531,7 +1531,7 @@ exports.FUNC = {
             var s_opt = {
                 'reply_markup':{
                     'inline_keyboard':[
-                        [{text:"Visiter", url: "http://127.0.0.1:8080/view/"+hash}, {text:"✅ Fait", "callback_data":"sdone"}]
+                        [{text:"Visiter", url: "https://crypto-alliance.herokuapp.com/view/"+hash}, {text:"✅ Fait", "callback_data":"sdone"}]
                     ]
                 }
             }
@@ -1539,7 +1539,7 @@ exports.FUNC = {
             var s_opt = {
                 'reply_markup':{
                     'inline_keyboard':[
-                        [{text:"Visit", url: "http://127.0.0.1:8080/view/"+hash}, {text:"✅ Done", "callback_data":"sdone"}]
+                        [{text:"Visit", url: "https://crypto-alliance.herokuapp.com/view/"+hash}, {text:"✅ Done", "callback_data":"sdone"}]
                     ]
                 }
             }
