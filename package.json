@@ -5,7 +5,7 @@
   "main": "bot.js",
   "scripts": {
     "test": "run",
-    "start": "nodemon server.js"
+    "start": "nodemon bot.js"
   },
   "author": "Mr RoyNoone",
   "license": "MIT",
